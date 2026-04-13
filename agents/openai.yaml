@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor Tracker"
+  short_description: "Collect competitor posts and export Excel trackers"
+  default_prompt: "Provide competitor names, channel links, and a date range. Collect public video posts, normalize the rows, and export TSV plus XLSX."
