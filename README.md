@@ -16,6 +16,15 @@
 
 ---
 
+## ⚙️ 一键安装
+
+在你的技能（skills）目录下直接克隆本仓库即可：
+```bash
+git clone https://github.com/rubickguo/competitor-social-tracker-skill.git && pip install pandas openpyxl
+```
+
+---
+
 ## 📂 项目结构
 
 ```text
