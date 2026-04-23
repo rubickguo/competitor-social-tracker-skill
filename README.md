@@ -86,12 +86,6 @@ python "scripts/export_competitor_xlsx.py" `
 
 ---
 
-## 🙏 鸣谢
-
-本技能的 TikTok 动态抓取与浏览器模拟部分深度参考并使用了 [@eze-is](https://github.com/eze-is) 开发的 [web-access](https://github.com/eze-is/web-access) 技能。在此对原作者的开源贡献表示诚挚感谢。
-
----
-
 ## ⚖️ 许可与说明
 
 本工具仅用于公开数据的合规研究与分析。使用时请遵守相关平台的开发者协议与服务条款。
